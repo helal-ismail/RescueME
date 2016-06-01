@@ -2625,9 +2625,15 @@ noindex:-o-prefocus, .main-nav {/* opera hack */
 	text-transform: uppercase;
 	color: #000000;
 }
+.block-about-6 h6 {
+	margin-bottom: 10px;
+	font-size: 24px;
+	color: #ff5921;
+}
 .block-about-6 p {
 	margin-bottom: 24px;
 	line-height: 24px;
+    color:#3e3a3a;
 }
 .block-about-6 img {
 	display: block;
@@ -7897,6 +7903,7 @@ padding-left:100px;
 /**/
 .block-blog-details h2 {
 	font-size: 24px;
+    margin-bottom: 30px;
 	text-transform: uppercase;
 	color: #000;
 }
@@ -7913,9 +7920,15 @@ padding-left:100px;
 	margin-top: 10px;
 	font-size: 13px;
 }
+.block-blog-details h6 {
+	margin-bottom: 10px;
+	font-size: 24px;
+	color: #ff5921;
+}
 .block-blog-details p {
 	margin-top: 20px;
 	line-height: 24px;
+    color:#3e3a3a;
 }
 .block-blog-details img {
 	display: block;
